@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Futboleta</string>
+    <string name="login">Login</string>
+    <string name="registrarme"><u>Registrarme</u></string>
+    <string name="registro">Registro</string>
+    <string name="registrar">registrar</string>
+    <string name="Miperfil">Mi Perfil</string>
+    <string name="cerrarsesion">Cerrar Sesión</string>
+    <string name="perfil">Perfil</string>
+    <string name="pirncipal">Principal</string>
+</resources>
